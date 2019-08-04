@@ -1,1 +1,10 @@
+# venv
 majmun/
+
+.cache
+.DS_Store
+__pycache__
+*.pyc  
+.envrc
+.vscode/
+db.sqlite3
